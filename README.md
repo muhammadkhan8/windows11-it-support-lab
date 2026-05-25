@@ -4,7 +4,7 @@
 
 Built a Windows 11 ARM virtual machine using VMware Fusion on an Apple Silicon MacBook.
 
-This home lab was created to practice real-world IT support and help desk tasks including:
+This home lab was created to simulate real-world IT support and help desk tasks including:
 
 - Local user management
 - Network adapter troubleshooting
