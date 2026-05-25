@@ -67,3 +67,21 @@ This home lab was created to simulate real-world IT support and help desk tasks 
 - System Diagnostics
 - VMware Virtualization
 - IT Support Workflow
+
+
+## Screenshots
+
+### IP Configuration Analysis
+![IP Config](./ipconfig-network-analysis.png)
+
+### Services Management
+![Services](./services-console.png)
+
+### Task Manager Monitoring
+![Task Manager](./Task%20Manager.png)
+
+### Ethernet Adapter Properties
+![Ethernet](./Ethernet-Adapter-Properties.png)
+
+### User Account Management
+![Users](./user-account-management.png)
