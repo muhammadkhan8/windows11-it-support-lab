@@ -127,4 +127,4 @@ Managed local users and groups through Windows administrative tools.
 ### Ethernet Adapter Driver Configuration
 Reviewed Ethernet adapter driver details including provider information, driver version, update options, and device status through Windows adapter properties.
 
-![Ethernet Adapter Driver Configuration](./Ethernet%20Adapter%20Conf.png)
+![Ethernet Adapter Driver Configuration](<./Ethernet Adapter Conf.png>)
