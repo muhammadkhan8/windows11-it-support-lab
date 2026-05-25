@@ -69,19 +69,55 @@ This home lab was created to simulate real-world IT support and help desk tasks 
 - IT Support Workflow
 
 
+
+
+---
+
 ## Screenshots
 
-### IP Configuration Analysis
-![IP Config](./ipconfig-network-analysis.png)
+### Ethernet Adapter Configuration
+Reviewed Ethernet adapter configuration settings and verified connectivity options.
 
-### Services Management
-![Services](./services-console.png)
+![Ethernet Adapter Configuration](./Ethernet-Conf.png)
 
-### Task Manager Monitoring
-![Task Manager](./Task%20Manager.png)
+---
 
 ### Ethernet Adapter Properties
-![Ethernet](./Ethernet-Adapter-Properties.png)
+Inspected adapter properties, protocols, and network client configurations.
+
+![Ethernet Adapter Properties](./Ethernet-Adapter-Properties.png)
+
+---
+
+### IP Configuration Analysis
+Used `ipconfig` to analyze IPv4 addressing, subnet mask, and default gateway information.
+
+![IP Configuration Analysis](./ipconfig-network-analysis.png)
+
+---
+
+### Windows Services Console
+Reviewed Windows services, startup types, and running background services using `services.msc`.
+
+![Services Console](./services-console.png)
+
+---
+
+### Task Manager Monitoring
+Monitored system resource usage, running processes, and background applications through Task Manager.
+
+![Task Manager](./Task%20Manager.png)
+
+---
+
+### User Account Configuration
+Configured and reviewed local user account settings and permissions.
+
+![User Account Configuration](./User-account-Conf.png)
+
+---
 
 ### User Account Management
-![Users](./user-account-management.png)
+Managed local users and groups through Windows administrative tools.
+
+![User Account Management](./user-account-management.png)
